@@ -26,11 +26,11 @@ Learn client versus server, URLs, HTTP methods and status codes, JSON, promises,
 
 ## ChatGPT prompt — guided practice
 
-> Teach me HTTP and asynchronous JavaScript using a local incident-data request. First check whether my local development server is ready. Explain the request lifecycle and ask me to inspect Network details. Give no code; help me reason about loading, empty, and failure states.
+> Teach me HTTP and asynchronous JavaScript using a local incident-data request. First check whether my local development server is ready. Explain the request lifecycle and ask me to inspect Network details. Provide a working request example and explain how to implement loading, empty, and failure states. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my request handling and ask how it behaves for offline mode, a missing file, malformed data, and success. Describe what to improve without rewriting it. I will share only fictional data and remove credentials before sharing my work.
+> Review my request handling and ask how it behaves for offline mode, a missing file, malformed data, and success. Provide an improved version and explain how it handles each failure. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

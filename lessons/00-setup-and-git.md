@@ -26,11 +26,11 @@ Understand files, folders, a browser, an editor, a terminal, and version history
 
 ## ChatGPT prompt — guided practice
 
-> Help me set up a beginner web-development workspace for an incident tracker. First ask my operating system and whether I prefer GitHub Desktop or the website. Guide me through one small action at a time; explain any command before suggesting I run it. Do not write application code.
+> Help me set up a beginner web-development workspace for an incident tracker. First ask my operating system and whether I prefer GitHub Desktop or the website. Guide me through one small action at a time; explain any command before suggesting I run it. Provide any setup commands or small starter examples I need and explain what each does. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Ask me to explain saving versus committing versus pushing, then help me investigate one setup problem using its exact error message. I will share only fictional data and remove credentials before sharing my work.
+> Ask me to explain saving versus committing versus pushing, then help me investigate one setup problem using its exact error message. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

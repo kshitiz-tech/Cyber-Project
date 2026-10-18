@@ -26,11 +26,11 @@ Understand Node.js, npm, dependencies, a development server, JSX, components, an
 
 ## ChatGPT prompt — guided practice
 
-> Guide me through Vite’s current official React JavaScript setup. Ask my operating system and installed Node version first. Have me read and explain each setup step before doing it. Do not generate application code; help me understand the scaffold and move my CSS deliberately.
+> Guide me through Vite’s current official React JavaScript setup. Ask my operating system and installed Node version first. Have me read and explain each setup step before doing it. Provide setup commands and starter React code as needed; explain the scaffold and help me move my CSS deliberately. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Ask me to explain the project files and the difference between the development server and production build. Diagnose my exact error message using the official Vite guide. I will share only fictional data and remove credentials before sharing my work.
+> Ask me to explain the project files and the difference between the development server and production build. Diagnose my exact error message using the official Vite guide. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

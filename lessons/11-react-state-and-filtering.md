@@ -26,11 +26,11 @@ Learn state, event handlers, render cycles, immutable updates, shared state, and
 
 ## ChatGPT prompt — guided practice
 
-> Teach me React state using my incident filters. Ask me to list what can change and what can be calculated. Help me choose a state owner and predict a render after an event. Do not write hooks or handlers for me.
+> Teach me React state using my incident filters. Ask me to list what can change and what can be calculated. Help me choose a state owner and predict a render after an event. Help me write the state hooks and event handlers, explaining why each belongs in its component. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my state design for duplicated derived values and mutation. Give me one sequence of user actions that could expose a bug, then let me investigate. I will share only fictional data and remove credentials before sharing my work.
+> Review my state design for duplicated derived values and mutation. Give me one sequence of user actions that could expose a bug, then let me investigate. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

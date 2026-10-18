@@ -26,11 +26,11 @@ Learn trust boundaries, unsafe rendering, client-side limitations, exposed front
 
 ## ChatGPT prompt — guided practice
 
-> Act as a patient security reviewer of my React learning demo. Ask me to draw its trust boundaries and explain what users can modify. Walk through rendering, browser storage, and frontend configuration. Do not generate attack code or claim the app is secure without evidence.
+> Act as a patient security reviewer of my React learning demo. Ask me to draw its trust boundaries and explain what users can modify. Walk through rendering, browser storage, and frontend configuration. Provide defensive code improvements and safe checks for my own demo; explain what each check proves and avoid claiming security without evidence. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my threat table and distinguish a verified safeguard from an assumption. Ask for the evidence behind each claim and suggest one small defensive improvement. I will share only fictional data and remove credentials before sharing my work.
+> Review my threat table and distinguish a verified safeguard from an assumption. Ask for the evidence behind each claim and suggest one small defensive improvement. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

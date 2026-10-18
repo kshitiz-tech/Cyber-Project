@@ -26,11 +26,11 @@ Learn unit tests, component interaction tests, boundary cases, regression tests,
 
 ## ChatGPT prompt — guided practice
 
-> Help me design meaningful tests for my incident tracker. Ask which user behavior each test protects, then help me choose inputs and expected outcomes. Use Vitest and React Testing Library documentation. Do not generate test code.
+> Help me design meaningful tests for my incident tracker. Ask which user behavior each test protects, then help me choose inputs and expected outcomes. Use Vitest and React Testing Library documentation. Help me write actual tests, explain each assertion, and show how to run them and interpret failures. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my tests for assertions that would still pass if the feature were broken. Ask me to demonstrate a failing regression and explain any missing edge case. I will share only fictional data and remove credentials before sharing my work.
+> Review my tests for assertions that would still pass if the feature were broken. Ask me to demonstrate a failing regression and explain any missing edge case. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

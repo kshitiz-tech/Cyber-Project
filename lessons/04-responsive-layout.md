@@ -26,11 +26,11 @@ Learn Flexbox, Grid, relative sizing, media queries, responsive layouts, and acc
 
 ## ChatGPT prompt — guided practice
 
-> Help me reason about a responsive incident dashboard. Ask me to describe the content and identify which part overflows first. Explain when to use Flexbox or Grid without writing CSS. Give me a short manual testing plan.
+> Help me reason about a responsive incident dashboard. Ask me to describe the content and identify which part overflows first. Explain when to use Flexbox or Grid with CSS examples and help me apply them to my layout. Give me a short manual testing plan. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Use my screenshots and CSS to identify one layout cause at a time. Explain how I can verify each hypothesis in developer tools; do not rewrite the page. I will share only fictional data and remove credentials before sharing my work.
+> Use my screenshots and CSS to identify one layout cause at a time. Explain how I can verify each hypothesis in developer tools; provide a targeted CSS fix and explain why it works. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

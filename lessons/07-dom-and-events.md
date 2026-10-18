@@ -26,11 +26,11 @@ Understand the DOM, event listeners, form submission, default browser behavior, 
 
 ## ChatGPT prompt — guided practice
 
-> Help me connect my HTML form to JavaScript events. Ask me to describe what should happen from submission through validation to rendering. Explain DOM and default form behavior without implementation code. Help me test one step at a time.
+> Help me connect my HTML form to JavaScript events. Ask me to describe what should happen from submission through validation to rendering. Explain DOM and default form behavior with JavaScript examples and help me connect them to my page. Help me test one step at a time. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my event flow for duplicate handlers, unsafe HTML insertion, and missing error feedback. Explain the first issue and wait for my fix. I will share only fictional data and remove credentials before sharing my work.
+> Review my event flow for duplicate handlers, unsafe HTML insertion, and missing error feedback. Explain the first issue and wait for my fix. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

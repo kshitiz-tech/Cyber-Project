@@ -27,11 +27,11 @@ Learn authenticated requests, server-owned data, mutation feedback, protected wo
 
 ## ChatGPT prompt — guided practice
 
-> Coach me through replacing my React demo data with a protected API. Ask me to describe the request lifecycle, session behavior, and error states before implementation. Help me plan integration tests and hosting needs without writing code.
+> Coach me through replacing my React demo data with a protected API. Ask me to describe the request lifecycle, session behavior, and error states before implementation. Help me write the React API integration and integration tests, explain the changes, and plan hosting needs. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my full-stack evidence using reporter A, reporter B, and an administrator. Challenge unsupported security claims and help me distinguish a working local exercise from a service ready to operate. I will share only fictional data and remove credentials before sharing my work.
+> Review my full-stack evidence using reporter A, reporter B, and an administrator. Challenge unsupported security claims and help me distinguish a working local exercise from a service ready to operate. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

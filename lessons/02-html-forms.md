@@ -26,11 +26,11 @@ Understand labels, inputs, text areas, select controls, required fields, and nat
 
 ## ChatGPT prompt — guided practice
 
-> Coach me through planning an accessible incident report form. Ask me which fields are required and why. Explain labels, native validation, and error feedback without writing HTML. Give me one keyboard test to perform after each change.
+> Coach me through planning an accessible incident report form. Ask me which fields are required and why. Explain labels, native validation, and error feedback with annotated HTML examples that I can use and adapt. Give me one keyboard test to perform after each change. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my form and describe missing labels, confusing instructions, or inaccessible error placement. Ask me to fix one problem before discussing the next. I will share only fictional data and remove credentials before sharing my work.
+> Review my form and describe missing labels, confusing instructions, or inaccessible error placement. Ask me to fix one problem before discussing the next. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

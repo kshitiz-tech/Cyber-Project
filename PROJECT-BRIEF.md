@@ -77,7 +77,7 @@ The server determines user identity and ownership. Hiding buttons is only a user
 
 ## ChatGPT prompt
 
-> Act as the reviewer of my incident tracker project. Use this brief as the acceptance criteria. Ask me to demonstrate one requirement at a time and explain my implementation. Distinguish the frontend demo from the optional protected backend. Give no code and do not mark a requirement complete without evidence.
+> Act as the reviewer of my incident tracker project. Use this brief as the acceptance criteria. Ask me to demonstrate one requirement at a time and explain my implementation. Distinguish the frontend demo from the optional protected backend. Help me implement missing requirements with explained code and verification steps; only mark a requirement complete when there is evidence.
 
 ## Resources
 

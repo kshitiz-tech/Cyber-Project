@@ -26,11 +26,11 @@ Learn controlled inputs, form state, validation, error feedback, submission, and
 
 ## ChatGPT prompt — guided practice
 
-> Coach me through a controlled React form for incident reports. Ask me to describe field state, validation rules, and what happens on success or failure. Give one small implementation task at a time without code.
+> Coach me through a controlled React form for incident reports. Ask me to describe field state, validation rules, and what happens on success or failure. Help me implement one part at a time with explained code for inputs, validation, and submission. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my form using empty values, whitespace, maximum lengths, an invalid category, and repeated submission. Describe fixes without generating the implementation. I will share only fictional data and remove credentials before sharing my work.
+> Review my form using empty values, whitespace, maximum lengths, an invalid category, and repeated submission. Provide the corrected implementation and explain the validation and feedback changes. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

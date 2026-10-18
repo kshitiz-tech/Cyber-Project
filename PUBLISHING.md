@@ -12,7 +12,7 @@ Publishing the curriculum is different from hosting the application she will bui
 
 ## ChatGPT prompt
 
-> Walk me through sharing this Markdown curriculum on GitHub using the website or GitHub Desktop. Ask which interface I prefer and whether the repository should be public or private. Explain one step at a time without generating code. Help me verify the README and lesson links after uploading.
+> Walk me through sharing this Markdown curriculum on GitHub using the website or GitHub Desktop. Ask which interface I prefer and whether the repository should be public or private. Explain one step at a time and provide commands or configuration if needed. Help me verify the README and lesson links after uploading.
 
 ## Resources
 

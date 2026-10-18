@@ -2,7 +2,7 @@
 
 A beginner’s path from basic HTML and CSS to a React security incident tracker, with an optional JavaScript backend.
 
-**This repository contains instructions only.** There is no starter application, solution code, configuration code, or runnable project. You will write your application in a separate implementation repository. Every document includes instructions, a ChatGPT coaching prompt, and resource links.
+**This repository contains instructions only.** There is no starter application, solution code, configuration code, or runnable project. You will build your application in a separate implementation repository with ChatGPT’s help. ChatGPT is welcome to generate code, complete small files, explain implementations, and debug errors there; this curriculum repository stays code-free. Every document includes instructions, a ChatGPT coaching prompt, and resource links.
 
 ## What you will build
 
@@ -15,7 +15,7 @@ The optional extension adds a Node.js and Express API, SQLite, authenticated use
 1. Read the [project brief](PROJECT-BRIEF.md) to understand the features and field rules.
 2. Follow the [roadmap](ROADMAP.md) in order. Start at [lesson 00](lessons/00-setup-and-git.md), even if React is your main goal.
 3. Create a separate implementation repository for your own work. Keep this repository available as the lesson guide.
-4. Read a lesson, study its resources, attempt one small task, and only then ask ChatGPT for a hint or review.
+4. Read a lesson and paste its prompt into ChatGPT. Ask for explanations, worked examples, step-by-step implementation, or debugging help whenever you need it, including before your first attempt.
 5. Use each lesson’s completion checks and record evidence in your [progress journal](PROGRESS.md).
 6. Complete the frontend milestone before attempting the backend extension. Use the [coaching guide](COACHING.md) when you get stuck.
 
@@ -33,7 +33,7 @@ Use JavaScript first. Add TypeScript, a component library, or more advanced stat
 
 ## ChatGPT prompt
 
-> Be my patient web-development tutor for this incident tracker curriculum. First ask which lesson I am on and what I have already tried. Teach one concept at a time, ask me to predict behavior, and wait for my attempt. Do not generate application code, completed files, or the finished project. Give plain-language hints, review my work, and direct me to the lesson’s official resources. Ask me to demonstrate the completion checks before advancing.
+> Be my patient web-development tutor and coding partner for this incident tracker curriculum. Ask which lesson I am on and what I have already built; it is fine if I have not started. Help me build the lesson’s feature with explanations, working code, setup commands, and complete small files when helpful. Identify where each change belongs, explain unfamiliar syntax, and show how to run and test it. Use the lesson’s official resources and match my installed versions. Work through one manageable feature at a time, help fix any errors I share, and finish with a small modification for me to try. Check the lesson’s completion criteria using results I provide.
 
 ## Resources
 

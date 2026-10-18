@@ -26,11 +26,11 @@ Learn component boundaries, JSX, props, composition, conditional rendering, list
 
 ## ChatGPT prompt — guided practice
 
-> Help me decompose my incident dashboard into React components. Ask me where each component’s responsibility begins and ends. Explain props and stable list keys, then ask me to implement one component. Do not give JSX or a finished component tree.
+> Help me decompose my incident dashboard into React components. Ask me where each component’s responsibility begins and ends. Explain props and stable list keys, then ask me to implement one component. Suggest a component tree and provide JSX for one component at a time, explaining its props and responsibilities. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my components for duplicated markup, unnecessary splitting, prop mutation, and unstable keys. Explain the most important issue without rewriting my files. I will share only fictional data and remove credentials before sharing my work.
+> Review my components for duplicated markup, unnecessary splitting, prop mutation, and unstable keys. Explain the most important issue and show corrected code, identifying which file to change. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

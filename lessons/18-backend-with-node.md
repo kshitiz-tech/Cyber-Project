@@ -26,11 +26,11 @@ Learn server-side JavaScript, API contracts, request parsing, server validation,
 
 ## ChatGPT prompt — guided practice
 
-> Coach me through planning a local Node.js and Express incident API. Start with an operation’s request, validation, and response contract. Ask me to implement one behavior and verify it directly. Do not provide server code or treat CORS as authentication.
+> Coach me through planning a local Node.js and Express incident API. Start with an operation’s request, validation, and response contract. Ask me to implement one behavior and verify it directly. Help me write the server code one operation at a time and explain why CORS is not authentication. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my API contract and server behavior for malformed requests, unsupported fields, excessive input, and missing records. Ask for observed responses before suggesting improvements. I will share only fictional data and remove credentials before sharing my work.
+> Review my API contract and server behavior for malformed requests, unsupported fields, excessive input, and missing records. Ask for observed responses before suggesting improvements. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

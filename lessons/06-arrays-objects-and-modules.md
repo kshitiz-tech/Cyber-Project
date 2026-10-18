@@ -26,11 +26,11 @@ Learn objects, arrays, stable identifiers, mapping, filtering, finding, immutabl
 
 ## ChatGPT prompt — guided practice
 
-> Coach me on JavaScript arrays, objects, and modules using fictional incidents. Give me a plain-language filtering challenge, ask for my attempt, and then test my reasoning with an edge case. Do not supply code.
+> Coach me on JavaScript arrays, objects, and modules using fictional incidents. Give me a plain-language filtering challenge, ask for my attempt, and then test my reasoning with an edge case. Provide example functions and help me adapt them to my records. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my data functions for mutation, missing identifiers, and combined filters. Ask me to demonstrate the issue using a small example before I fix it. I will share only fictional data and remove credentials before sharing my work.
+> Review my data functions for mutation, missing identifiers, and combined filters. Ask me to demonstrate the issue using a small example before I fix it. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

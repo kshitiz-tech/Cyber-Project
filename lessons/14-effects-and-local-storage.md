@@ -26,11 +26,11 @@ Understand persistence, serialization, effects, external synchronization, initia
 
 ## ChatGPT prompt — guided practice
 
-> Help me design browser persistence for fictional incident data. Ask how I will initialize, validate, save, and recover before discussing effects. Explain the danger of saving an empty initial state over existing data. Do not write code.
+> Help me design browser persistence for fictional incident data. Ask how I will initialize, validate, save, and recover before discussing effects. Explain the danger of saving an empty initial state over existing data. Provide a small implementation with explanations and help me adapt it to my app. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my persistence lifecycle. Ask me to test refresh, corrupted data, denied storage, and repeated effects. Help me locate the cause of one failure without supplying a solution. I will share only fictional data and remove credentials before sharing my work.
+> Review my persistence lifecycle. Ask me to test refresh, corrupted data, denied storage, and repeated effects. Help me locate the cause of one failure and provide an explained fix with a check that confirms it works. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

@@ -26,11 +26,11 @@ Learn variables, values, types, comparisons, conditionals, loops, functions, par
 
 ## ChatGPT prompt — guided practice
 
-> I am new to programming. Teach variables, types, conditions, loops, and functions through incident-tracker exercises, one concept at a time. Ask me to predict behavior and write my own attempt. Give hints in words, not solution code.
+> I am new to programming. Teach variables, types, conditions, loops, and functions through incident-tracker exercises, one concept at a time. Ask me to predict behavior and write my own attempt. Show small working JavaScript examples, explain them line by line, and help me write my own version. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my small function and ask me to trace it with valid, empty, and unexpected inputs. Explain any bug without giving me the replacement implementation. I will share only fictional data and remove credentials before sharing my work.
+> Review my small function and ask me to trace it with valid, empty, and unexpected inputs. Explain any bug and provide a corrected implementation with an explanation of the changes. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

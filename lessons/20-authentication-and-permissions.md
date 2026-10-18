@@ -27,11 +27,11 @@ Distinguish authentication from authorization; learn password storage, sessions,
 
 ## ChatGPT prompt — guided practice
 
-> Help me design authentication for my learning API using the linked OWASP guidance. First review my permission matrix and session lifecycle. Explain password hashing, server-side checks, and CSRF in small steps. Do not generate security code or claim production readiness.
+> Help me design authentication for my learning API using the linked OWASP guidance. First review my permission matrix and session lifecycle. Explain password hashing, server-side checks, and CSRF in small steps. Help me implement authentication using maintained libraries and explain each security decision. Include verification steps and distinguish learning examples from production-ready controls. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my evidence for two-user isolation, role tampering, logout, session expiry, login throttling, and CSRF rejection. Identify assumptions and ask me to prove one missing property. I will share only fictional data and remove credentials before sharing my work.
+> Review my evidence for two-user isolation, role tampering, logout, session expiry, login throttling, and CSRF rejection. Identify assumptions and ask me to prove one missing property. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

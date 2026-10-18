@@ -26,11 +26,11 @@ Learn production builds, static hosting, deployment paths, direct-route handling
 
 ## ChatGPT prompt — guided practice
 
-> Guide me through publishing my Vite React frontend using the official deployment guide. Ask which host and URL path I chose. Help me reason about build output, asset paths, and router refresh behavior. Do not write configuration or workflow code for me.
+> Guide me through publishing my Vite React frontend using the official deployment guide. Ask which host and URL path I chose. Help me reason about build output, asset paths, and router refresh behavior. Provide the configuration or workflow files I need, explain where they belong, and help me verify deployment. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my live demo checklist and portfolio claims. Ask for evidence that direct links, keyboard use, and reset work, and help me describe limitations honestly. I will share only fictional data and remove credentials before sharing my work.
+> Review my live demo checklist and portfolio claims. Ask for evidence that direct links, keyboard use, and reset work, and help me describe limitations honestly. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

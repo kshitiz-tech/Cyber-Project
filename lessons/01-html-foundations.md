@@ -26,11 +26,11 @@ Learn elements, attributes, document structure, headings, paragraphs, lists, lin
 
 ## ChatGPT prompt — guided practice
 
-> Teach me semantic HTML by helping me plan my incident tracker dashboard. Explain elements and attributes using plain language, then ask me to choose suitable page regions. Give me a small writing task and wait for my attempt. Do not provide markup or a finished page.
+> Teach me semantic HTML by helping me plan my incident tracker dashboard. Explain elements and attributes using plain language, then ask me to choose suitable page regions. Give me a small writing task and wait for my attempt. Help me write the HTML, including a complete small page if I need one, and explain its structure. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review the HTML I paste for structure, heading order, and link versus button choices. Describe the three most useful fixes without rewriting my work. I will share only fictional data and remove credentials before sharing my work.
+> Review the HTML I paste for structure, heading order, and link versus button choices. Describe the three most useful fixes and provide corrected snippets or a revised file when useful. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

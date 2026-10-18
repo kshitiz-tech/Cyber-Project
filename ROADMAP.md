@@ -8,7 +8,7 @@ Work in order and use each lesson’s completion checks as the gate to the next 
 | --- | --- | --- |
 | Weeks 1–2 | Lessons 00–04 | Explain and navigate your own accessible HTML/CSS pages |
 | Weeks 3–4 | Lessons 05–08 | Explain functions, collections, events, and HTTP |
-| Weeks 5–8 | Lessons 09–14 | Build and explain the React tracker without copied solutions |
+| Weeks 5–8 | Lessons 09–14 | Build the React tracker with ChatGPT’s help and explain how it works |
 | Weeks 9–10 | Lessons 15–17 | Demonstrate tests, limitations, and a hosted frontend |
 | Extra practice | Repeat difficult exercises | Rebuild one small feature from a blank file |
 | Optional later phase | Lessons 18–21 | Prove server-side permissions with two users |
@@ -46,7 +46,7 @@ At each checkpoint, demonstrate the feature, explain a design decision, show one
 
 ## ChatGPT prompt
 
-> Help me choose a realistic weekly plan for this curriculum. Ask my current experience and available hours. Keep HTML, CSS, and JavaScript before React. Use the completion checks rather than dates to judge progress. Give no code and do not skip foundations to accelerate the schedule.
+> Help me choose a realistic weekly plan for this curriculum. Ask my current experience and available hours. Keep HTML, CSS, and JavaScript before React. Use the completion checks rather than dates to judge progress. Include supported coding sessions with ChatGPT while keeping the foundational lessons in order.
 
 ## Resources
 

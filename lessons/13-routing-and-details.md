@@ -26,11 +26,11 @@ Learn client-side routing, navigation, route parameters, detail views, not-found
 
 ## ChatGPT prompt — guided practice
 
-> Help me plan React Router pages for my tracker using the declarative documentation. Ask me to describe the routes and how incident identifiers select records. Explain not-found handling and direct-page refresh without writing route code.
+> Help me plan React Router pages for my tracker using the declarative documentation. Ask me to describe the routes and how incident identifiers select records. Explain not-found handling and direct-page refresh with route configuration examples that match my installed version. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my navigation behavior and ask me to test a missing record, unknown route, back navigation, and refresh. Point me to the relevant documentation for the first failure. I will share only fictional data and remove credentials before sharing my work.
+> Review my navigation behavior and ask me to test a missing record, unknown route, back navigation, and refresh. Point me to the relevant documentation for the first failure. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

@@ -26,11 +26,11 @@ Learn tables, rows, primary keys, relationships, constraints, parameterized quer
 
 ## ChatGPT prompt — guided practice
 
-> Teach me relational database design for users, incidents, and status history. Ask me to explain the relationships first. Help me choose a maintained SQLite driver from its official documentation, then plan parameterized queries and transaction tests. Do not write SQL or application code.
+> Teach me relational database design for users, incidents, and status history. Ask me to explain the relationships first. Help me choose a maintained SQLite driver from its official documentation, then plan parameterized queries and transaction tests. Provide schema and parameterized-query examples for my selected driver, explain them, and help me integrate them. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my schema and data-access approach. Ask how I verified parameter binding, foreign keys, server restart persistence, and transaction rollback; explain one missing safeguard at a time. I will share only fictional data and remove credentials before sharing my work.
+> Review my schema and data-access approach. Ask how I verified parameter binding, foreign keys, server restart persistence, and transaction rollback; explain one missing safeguard at a time. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 

@@ -4,11 +4,11 @@
 
 Use this as a reference library, not a list to finish before building. Open the current lesson first, read only the relevant sections, complete its exercise, and return when you need clarification. Start with MDN for foundations, React for React concepts, and each tool’s own guide for setup. Read OWASP after you understand the feature being protected.
 
-External documentation contains code examples. This curriculum itself intentionally contains none. Study examples to understand a concept, then write your own implementation. Current setup prerequisites and commands belong to the official tool documentation because they change over time.
+External documentation contains code examples. This curriculum itself intentionally contains none. Study examples with ChatGPT, ask for an explanation or an adapted implementation, and test the resulting code in your application repository. Current setup prerequisites and commands belong to the official tool documentation because they change over time.
 
 ## ChatGPT prompt
 
-> Help me choose one resource for my current lesson from this index. Ask what I am trying to understand, identify the relevant section, and give me two reading questions. Do not invent links, generate code, or send me through an entire course before I can try a small task.
+> Help me choose one resource for my current lesson from this index. Ask what I am trying to understand, identify the relevant section, and give me two reading questions. Use the supplied resource links, explain a relevant example, and help me apply it with code. Keep the reading focused on my current task.
 
 ## Resources
 

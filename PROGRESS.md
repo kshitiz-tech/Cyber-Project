@@ -23,7 +23,7 @@ Explain one feature without opening its source. Rebuild one small behavior from 
 
 ## ChatGPT prompt
 
-> Help me reflect on my learning journal. Ask me which result I can demonstrate, which concept I can explain independently, and which part still depends on hints. Suggest one focused practice task for my weakest area. Do not write code or fill in evidence I have not provided.
+> Help me reflect on my learning journal. Ask me which result I can demonstrate, which concept I can explain independently, and which part still depends on hints. Suggest one focused practice task for my weakest area. Offer a worked example or help implement a practice task if useful, but do not fill in evidence I have not provided.
 
 ## Resources
 

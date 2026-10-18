@@ -26,11 +26,11 @@ Learn selectors, the cascade, inheritance, specificity, the box model, spacing, 
 
 ## ChatGPT prompt — guided practice
 
-> Teach me CSS using my incident card. Ask what I expect a spacing change to do, then have me inspect it. Explain the cascade and box model in plain language. Do not provide a stylesheet or CSS snippets.
+> Teach me CSS using my incident card. Ask what I expect a spacing change to do, then have me inspect it. Explain the cascade and box model in plain language. Provide CSS examples or a small stylesheet and explain how each rule affects my page. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## ChatGPT prompt — review my attempt
 
-> Review my CSS for repeated values, specificity problems, readability, and focus styles. Suggest the smallest improvement and ask me to implement it. I will share only fictional data and remove credentials before sharing my work.
+> Review my CSS for repeated values, specificity problems, readability, and focus styles. Suggest the smallest improvement and ask me to implement it. I will share only fictional data and remove credentials before sharing my work. You can write code and help me finish this lesson. Work in manageable steps, identify the file for each change, explain unfamiliar syntax, and give me a way to run or check the result. If I am stuck or have not started, show a worked example rather than requiring an attempt first. End with one small change for me to try so I understand the result.
 
 ## Resources
 
